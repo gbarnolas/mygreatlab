@@ -1,4 +1,4 @@
-baseURL = "mysuperlab"
+baseURL = "https://mysuperlab.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
